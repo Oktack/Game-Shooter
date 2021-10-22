@@ -321,7 +321,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scripts/AmmoBox.cs"
+"Assets/Scripts/ChangeCamera.cs"
 "Assets/Scripts/PlayerAnimation.cs"
+"Assets/Scripts/SwapWeapon.cs"
+"Assets/Scripts/UIManager.cs"
+"Assets/Scripts/WeaponController.cs"
 -langversion:8.0
 
 /deterministic
